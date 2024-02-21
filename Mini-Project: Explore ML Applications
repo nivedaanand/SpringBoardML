@@ -1,8 +1,8 @@
-As we know Genrative AI has teaken the world by storm with the rise of CHat GPT, Google Bard. I would like to spend some time understanding the various Generative AI modela, and applying them to a security use case.
-As I work for cybe security I am very much inspired to use generative AI  for cybersecurity.
-Some of my ideas include --
-1. User Behavior Modeling System
-2. Email Monitoring System
-3. Credit card Fraud Detection
 
-Not sure if Generative AI will be solution for it, might also consider NLP if required.
+Sentiment Analysis Tool: Develop a tool that can analyze sentiments from social media posts, reviews, or comments. This can be useful for businesses to understand customer opinions about their products or services.
+
+Chatbot Development: Create a chatbot that can understand and respond to natural language inputs, providing customer service, answering FAQs, or even offering personalized recommendations.
+
+Text Classification: Develop a system that can categorize text into predefined classes. This could be used for spam detection, news categorization, or even medical diagnosis based on patient symptoms descriptions.
+
+Text Summarization - develop a system that can automatically generate a concise and meaningful summary of a given text.
